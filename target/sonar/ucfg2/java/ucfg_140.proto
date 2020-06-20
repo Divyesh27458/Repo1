@@ -1,0 +1,18 @@
+
+Lcom.management.UserMS.service.BuyerService#isValidEmail(Ljava/lang/String;)ZW
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.javaV V("1*“
+1W
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.javaX	 X(ê
+ç
+W
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.javaX	 X(9
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*
+^[A-Za-z0-9+_.-]+@(.+)$*
+
+emailjava.lang.String"a
+W
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.javaX X(:
+"":
+emailjava.lang.StringB.,
+*com.management.UserMS.service.BuyerService

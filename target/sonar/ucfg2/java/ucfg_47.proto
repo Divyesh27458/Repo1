@@ -1,0 +1,17 @@
+
+Dcom.management.UserMS.entity.Seller#getIsActive()Ljava/lang/Boolean;P
+FD:/user/UserMIS/src/main/java/com/management/UserMS/entity/Seller.java9 9("1*ò
+1P
+FD:/user/UserMIS/src/main/java/com/management/UserMS/entity/Seller.java:	 :(«
+¨
+P
+FD:/user/UserMIS/src/main/java/com/management/UserMS/entity/Seller.java:	 :(
+%0java.lang.Boolean"__id*5*3%
+#com.management.UserMS.entity.Seller"
+
+isActive"m
+P
+FD:/user/UserMIS/src/main/java/com/management/UserMS/entity/Seller.java: :(
+
+%0java.lang.BooleanB'%
+#com.management.UserMS.entity.Seller

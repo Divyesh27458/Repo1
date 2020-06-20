@@ -1,0 +1,18 @@
+
+Ocom.management.UserMS.Validator.BuyerValidator#isValidName(Ljava/lang/String;)Z[
+QD:/user/UserMIS/src/main/java/com/management/UserMS/Validator/BuyerValidator.javaG G("1*Í
+1[
+QD:/user/UserMIS/src/main/java/com/management/UserMS/Validator/BuyerValidator.javaI	 I(†
+ù
+[
+QD:/user/UserMIS/src/main/java/com/management/UserMS/Validator/BuyerValidator.javaI	 I(F
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*(&
+$^[a-zA-Z]+[-a-zA-Z\\s]+([-a-zA-Z]+)$*
+
+namejava.lang.String"e
+[
+QD:/user/UserMIS/src/main/java/com/management/UserMS/Validator/BuyerValidator.javaI I(G
+"":
+namejava.lang.StringB20
+.com.management.UserMS.Validator.BuyerValidator

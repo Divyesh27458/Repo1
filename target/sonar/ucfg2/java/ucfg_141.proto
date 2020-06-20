@@ -1,0 +1,18 @@
+
+Kcom.management.UserMS.service.BuyerService#isValidName(Ljava/lang/String;)ZW
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.java[ [("1*Þ
+1W
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.java]	 ](œ
+™
+W
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.java]	 ](F
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*(&
+$^[a-zA-Z]+[-a-zA-Z\\s]+([-a-zA-Z]+)$*
+
+namejava.lang.String"a
+W
+MD:/user/UserMIS/src/main/java/com/management/UserMS/service/BuyerService.java] ](G
+"":
+namejava.lang.StringB.,
+*com.management.UserMS.service.BuyerService

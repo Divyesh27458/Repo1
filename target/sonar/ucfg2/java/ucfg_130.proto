@@ -1,0 +1,55 @@
+
+xcom.management.UserMS.controller.BuyerController#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)Ljava/lang/String;]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java; ;("startingBlock*ê
+startingBlock]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java; ;(>ß
+Ü
+]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java: :(U
+%4"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTOß
+Ü
+]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java; ;(+
+%5"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO°
+­
+]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java;5 ;(=.
+buyerDTO"com.management.UserMS.dto.BuyerDTO"__annotation*
+
+%4*
+
+%5*
+4*½
+4]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java= =(â
+ß
+]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java= =(0
+%0*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerServiceîë
+]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.java= =(*
+
+%1void"acom.management.UserMS.service.BuyerService#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)V*2
+0
+%0*com.management.UserMS.service.BuyerService*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO25deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)*
+1*Ü
+1]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.javaA
+ A("x
+]
+SD:/user/UserMIS/src/main/java/com/management/UserMS/controller/BuyerController.javaA A( 
+Account Deactivated:.
+buyerDTO"com.management.UserMS.dto.BuyerDTOB42
+0com.management.UserMS.controller.BuyerController

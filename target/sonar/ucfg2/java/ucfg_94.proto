@@ -1,0 +1,49 @@
+
+[com.management.UserMS.dto.WishlistDTO#createEntity()Lcom/management/UserMS/entity/Wishlist;R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java   (&"1*³
+1R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java! !(,«¨
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java!" !(*+
+%0%com.management.UserMS.entity.Wishlist"%com.management.UserMS.entity.Wishlist½
+º
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java! !(,
+%1"/com.management.UserMS.entity.Wishlist#<init>()V*-
++
+%0%com.management.UserMS.entity.Wishlist¿
+¼
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java! !(-1
+wishlist%com.management.UserMS.entity.Wishlist"__id*-
++
+%0%com.management.UserMS.entity.Wishlistðí
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java"  "(1
+%2java.lang.Integer"Ecom.management.UserMS.dto.WishlistDTO#getBuyerid()Ljava/lang/Integer;*)'
+%com.management.UserMS.dto.WishlistDTO2getBuyerid()œ™
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java" "(2
+
+%3void"Fcom.management.UserMS.entity.Wishlist#setBuyerId(Ljava/lang/Integer;)V*3
+1
+wishlist%com.management.UserMS.entity.Wishlist*
+
+%2java.lang.Integer2setBuyerId(Ljava/lang/Integer;)îë
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java# #(/
+%4java.lang.Integer"Dcom.management.UserMS.dto.WishlistDTO#getProdid()Ljava/lang/Integer;*)'
+%com.management.UserMS.dto.WishlistDTO2getProdid()š—
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java# #(0
+
+%5void"Ecom.management.UserMS.entity.Wishlist#setProdId(Ljava/lang/Integer;)V*3
+1
+wishlist%com.management.UserMS.entity.Wishlist*
+
+%4java.lang.Integer2setProdId(Ljava/lang/Integer;)"‰
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java$ $(3
+1
+wishlist%com.management.UserMS.entity.WishlistB)'
+%com.management.UserMS.dto.WishlistDTO

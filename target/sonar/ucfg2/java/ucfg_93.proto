@@ -1,0 +1,52 @@
+
+}com.management.UserMS.dto.WishlistDTO#valueOf(Lcom/management/UserMS/entity/Wishlist;)Lcom/management/UserMS/dto/WishlistDTO;R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (%"1*”
+1R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java  (1´®
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java$ (/+
+%0%com.management.UserMS.dto.WishlistDTO"%com.management.UserMS.dto.WishlistDTOΩ
+∫
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java  (1
+%1"/com.management.UserMS.dto.WishlistDTO#<init>()V*-
++
+%0%com.management.UserMS.dto.WishlistDTO¬
+ø
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (24
+wishlistDTO%com.management.UserMS.dto.WishlistDTO"__id*-
++
+%0%com.management.UserMS.dto.WishlistDTO˙˜
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (4
+%2java.lang.Integer"Ecom.management.UserMS.entity.Wishlist#getBuyerId()Ljava/lang/Integer;*3
+1
+wishlist%com.management.UserMS.entity.Wishlist2getBuyerId()üú
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (5
+
+%3void"Fcom.management.UserMS.dto.WishlistDTO#setBuyerid(Ljava/lang/Integer;)V*6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO*
+
+%2java.lang.Integer2setBuyerid(Ljava/lang/Integer;)¯ı
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (2
+%4java.lang.Integer"Dcom.management.UserMS.entity.Wishlist#getProdId()Ljava/lang/Integer;*3
+1
+wishlist%com.management.UserMS.entity.Wishlist2getProdId()ùö
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (3
+
+%5void"Ecom.management.UserMS.dto.WishlistDTO#setProdid(Ljava/lang/Integer;)V*6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO*
+
+%4java.lang.Integer2setProdid(Ljava/lang/Integer;)"å
+R
+HD:/user/UserMIS/src/main/java/com/management/UserMS/dto/WishlistDTO.java (6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO:1
+wishlist%com.management.UserMS.entity.WishlistB)"'
+%com.management.UserMS.dto.WishlistDTO
